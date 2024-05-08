@@ -1,2 +1,3 @@
-print("Jai Shree Ram")
+print("Hello There!!")
+Print("India is great")
 
